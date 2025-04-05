@@ -1,50 +1,62 @@
-# 👋 Hi there, I'm Sagar!
+# 👋 Hello! I'm Sagar
 
-🎓 4th Year Computer Science Student | 💻 Developer | 📊 Data Enthusiast  
-🔍 Exploring Web Scraping, Machine Learning, and Full-Stack Development
-
----
-
-## 🚀 About Me
-
-- 🔭 I'm currently working on:
-  - 🏠 A Machine Learning **House Price Predictor**
-  - 🎵 A **Spotify Clone** using HTML & CSS
-  - 🔍 A **Web Scraper** to collect and analyze data from real websites
-- 🌱 Currently learning: **Data Visualization**, **Flask**, **JavaScript**, and more.
-- 👨‍💻 Actively building real-world projects to apply what I learn.
+| 📊 Data Science & Machine Learning Enthusiast  
+🏠 Real Estate Web Apps | 🤖 Deep Learning Projects | 💻 Python & C++ Developer  
 
 ---
 
-## 📌 Featured Projects
-
-- 🕸️ [**Web-Scraping**](https://github.com/Sagar4860/Web-Scraping)  
-  Scraping real-world websites using Python and BeautifulSoup.
-
-- 🎵 [**Spotify Clone**](https://github.com/Sagar4860/spotify-clone)  
-  A responsive landing page inspired by Spotify using pure HTML/CSS.
-
-- 📈 [**Startup-Analysis**](https://github.com/Sagar4860/Startup-Analysis)  
-  Data visualization using real startup datasets with Jupyter Notebooks.
-
-- 🏠 [**House-Predictor**](https://github.com/Sagar4860/House-Predictor)  
-  Predict housing prices with machine learning models.
+Currently focusing on web scraping, NLP, and interactive machine learning apps.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-- **Languages**: Python, HTML, CSS, JavaScript (learning)
-- **Tools**: Git, VS Code, Jupyter Notebook
-- **Libraries**: Pandas, NumPy, Matplotlib, BeautifulSoup, Scikit-learn
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
-- 📧 Email: youremail@example.com
+- **Languages**: Python, C++, SQL  
+- **Tools & Libraries**: TensorFlow, Scikit-learn, Keras, Pandas, NumPy, Matplotlib, Seaborn, PowerBI  
+- **Concepts**: Machine Learning, Deep Learning, NLP, EDA, Model Evaluation  
+- **Other**: Flask, Streamlit, Excel, Git, Selenium, BeautifulSoup
 
 ---
 
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagar4860&show_icons=true&theme=gruvbox)
+## 📈 Projects
+
+### 🔍 [Quora Duplicate Question Detection](https://github.com/Sagar4860/Quora-Duplicate-Detection)  
+*LSTM, TF-IDF, XGBoost | NLP | Deep Learning*  
+- Achieved 79.87% accuracy using ensemble ML models and deep learning (Siamese LSTM)  
+- Used TF-IDF embeddings, logistic regression, XGBoost, and more  
+- Built with Python, TensorFlow, Scikit-learn, and Keras  
+
+### 🏘️ [Real Estate Price Prediction Web App](https://github.com/Sagar4860/House-Predictor)  
+*Web Scraping | Streamlit | ML Regression*  
+- Scraped data from real estate platforms using Selenium & BeautifulSoup  
+- Achieved up to **94.5%** accuracy with optimized ML models  
+- Built an interactive web app with Streamlit and Flask  
+
+### 💳 [Credit Approval Prediction](https://github.com/Sagar4860/Credit-Approval-ML)  
+*SMOTE | XGBoost | Feature Engineering*  
+- Improved prediction accuracy from 74% to 87%  
+- Applied advanced preprocessing, SMOTE, ANOVA, and XGBoost  
+- Focused on model interpretability and performance optimization
+
+---
+
+## 📜 Certifications
+
+- 🏅 Machine Learning Specialization – *Coursera*  
+- 📊 Data Analysis with Power BI – *CampusX*
+
+---
+
+## 🏆 Achievements & Activities
+
+- 🤖 Conducted a **workshop on Face Detection & Localization** (Computer Vision)  
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+
+---
+
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagar4860&show_icons=true&theme=tokyonight)
