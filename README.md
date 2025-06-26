@@ -1,11 +1,7 @@
 # 👋 Hello! I'm Sagar
 
-| 📊 Data Science & Machine Learning Enthusiast  
-🏠 Real Estate Web Apps | 🤖 Deep Learning Projects | 💻 Python & C++ Developer  
-
----
-
-Currently focusing on web scraping, NLP, and interactive machine learning apps.
+🎓 Intern at Indian Institute of Technology Jodhpur (IITJ)
+I am currently pursuing an internship at IIT Jodhpur with the Vision, Language, and Learning Group (VL2G), working on Word Restoration, Inpainting, and OCR for 15 Indian languages. This opportunity helps me apply deep learning techniques to real-world document intelligence problems with a focus on multilingual text recognition.
 
 ---
 
